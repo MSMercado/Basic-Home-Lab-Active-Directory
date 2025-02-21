@@ -52,7 +52,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 
 ##  Run the PowerShell script to create 1000 users in Active Directory.
 
-[Power Shell script for creating users](https://github.com/joshmadakor1/AD_PS)
+[Power Shell script for creating users](https://github.com/MSMercado/Basic-Home-Lab-Active-Directory/tree/main/AD_PS-master)
 
 ##  Create a new virtual machine named "Client1" and install Windows 10 on it.
 
